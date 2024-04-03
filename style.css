@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+#header {
+    background-color: gray;
+    padding-top: 150px;
+    padding-bottom: 300px;
+    background-image: url(assets/background.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+#logo {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+#container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.rowT {
+    padding-top: 1px;
+    padding-bottom: 15px;
+    padding-left: 500px;
+    padding-right: 40px;
+    background-color: white;
+    text-align: justify;
+}
+
+#m82,
+#m101,
+#m104 {
+    float: left;
+    width: 420px;
+    height: 205px;
+    position: relative;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+#m82 {
+    margin-top: 20px;
+}
+
+#m101 {
+    margin-top: 28px;
+}
+
+#m104 {
+    margin-top: 10px;
+}
